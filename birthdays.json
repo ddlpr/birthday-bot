@@ -1,0 +1,269 @@
+[
+  {
+    "prompt": "Hola AI. Esta es una lista de objetos. Cada uno representa un conocido mio, y su relación conmigo está indicada por el campo 'relation'. Tú eres un asistente personal para los cumpleaños de seres queridos. Quiero que solamente contestes preguntas sobre los cumpleaños de estos conocidos. Todas las respuestas deben ser de 1 párrafo o menos. Lo primero que debes hacer es presentarte y con un solo enunciado y de manera amable, recordar al usuario que no tienes conocimiento de la fecha actual, por lo tanto requieres que te la proporcione."
+  },
+  {
+    "name": "John Doe",
+    "age": 35,
+    "interests": ["hiking", "playing guitar"],
+    "sex": "male",
+    "birthday": {
+      "day": 1,
+      "month": "January",
+      "year": 1987
+    },
+    "relation": "brother"
+  },
+  {
+    "name": "Jane Doe",
+    "age": 30,
+    "interests": ["reading", "painting"],
+    "sex": "female",
+    "birthday": {
+      "day": 15,
+      "month": "May",
+      "year": 1992
+    },
+    "relation": "sister"
+  },
+  {
+    "name": "Alice Smith",
+    "age": 60,
+    "interests": ["gardening", "cooking"],
+    "sex": "female",
+    "birthday": {
+      "day": 3,
+      "month": "September",
+      "year": 1963
+    },
+    "relation": "mother"
+  },
+  {
+    "name": "Bob Smith",
+    "age": 65,
+    "interests": ["fishing", "watching movies"],
+    "sex": "male",
+    "birthday": {
+      "day": 20,
+      "month": "December",
+      "year": 1958
+    },
+    "relation": "father"
+  },
+  {
+    "name": "David Johnson",
+    "age": 40,
+    "interests": ["playing basketball", "traveling"],
+    "sex": "male",
+    "birthday": {
+      "day": 10,
+      "month": "July",
+      "year": 1983
+    },
+    "relation": "cousin"
+  },
+  {
+    "name": "Emily Johnson",
+    "age": 38,
+    "interests": ["photography", "yoga"],
+    "sex": "female",
+    "birthday": {
+      "day": 25,
+      "month": "March",
+      "year": 1985
+    },
+    "relation": "cousin"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 50,
+    "interests": ["playing chess", "hiking"],
+    "sex": "male",
+    "birthday": {
+      "day": 9,
+      "month": "November",
+      "year": 1973
+    },
+    "relation": "uncle"
+  },
+  {
+    "name": "Sarah Brown",
+    "age": 45,
+    "interests": ["reading", "baking"],
+    "sex": "female",
+    "birthday": {
+      "day": 17,
+      "month": "February",
+      "year": 1978
+    },
+    "relation": "aunt"
+  },
+  {
+    "name": "Daniel Wilson",
+    "age": 25,
+    "interests": ["playing soccer", "listening to music"],
+    "sex": "male",
+    "birthday": {
+      "day": 31,
+      "month": "August",
+      "year": 1998
+    },
+    "relation": "nephew"
+  },
+  {
+    "name": "Olivia Wilson",
+    "age": 20,
+    "interests": ["painting", "dancing"],
+    "sex": "female",
+    "birthday": {
+      "day": 12,
+      "month": "April",
+      "year": 2003
+    },
+    "relation": "niece"
+  },
+  {
+    "name": "Thomas Davis",
+    "age": 45,
+    "interests": ["hiking", "gardening"],
+    "sex": "male",
+    "birthday": {
+      "day": 17,
+      "month": "February",
+      "year": 1978
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Sophia Davis",
+    "age": 40,
+    "interests": ["cooking", "reading"],
+    "sex": "female",
+    "birthday": {
+      "day": 10,
+      "month": "July",
+      "year": 1983
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Andrew Thompson",
+    "age": 30,
+    "interests": ["playing guitar", "watching movies"],
+    "sex": "male",
+    "birthday": {
+      "day": 15,
+      "month": "May",
+      "year": 1992
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Mia Thompson",
+    "age": 25,
+    "interests": ["painting", "travelling"],
+    "sex": "female",
+    "birthday": {
+      "day": 31,
+      "month": "August",
+      "year": 1998
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Nicholas Harris",
+    "age": 40,
+    "interests": ["playing basketball", "reading"],
+    "sex": "male",
+    "birthday": {
+      "day": 10,
+      "month": "July",
+      "year": 1983
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Isabella Harris",
+    "age": 35,
+    "interests": ["photography", "cooking"],
+    "sex": "female",
+    "birthday": {
+      "day": 1,
+      "month": "January",
+      "year": 1987
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Ethan Martinez",
+    "age": 35,
+    "interests": ["playing soccer", "listening to music"],
+    "sex": "male",
+    "birthday": {
+      "day": 1,
+      "month": "January",
+      "year": 1987
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Ava Martinez",
+    "age": 30,
+    "interests": ["painting", "dancing"],
+    "sex": "female",
+    "birthday": {
+      "day": 15,
+      "month": "May",
+      "year": 1992
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "James Anderson",
+    "age": 50,
+    "interests": ["playing chess", "watching movies"],
+    "sex": "male",
+    "birthday": {
+      "day": 9,
+      "month": "November",
+      "year": 1973
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Lily Anderson",
+    "age": 45,
+    "interests": ["reading", "baking"],
+    "sex": "female",
+    "birthday": {
+      "day": 17,
+      "month": "February",
+      "year": 1978
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "William Walker",
+    "age": 25,
+    "interests": ["playing basketball", "traveling"],
+    "sex": "male",
+    "birthday": {
+      "day": 31,
+      "month": "August",
+      "year": 1998
+    },
+    "relation": "friend"
+  },
+  {
+    "name": "Grace Walker",
+    "age": 20,
+    "interests": ["painting", "yoga"],
+    "sex": "female",
+    "birthday": {
+      "day": 12,
+      "month": "April",
+      "year": 2003
+    },
+    "relation": "friend"
+  }
+]
